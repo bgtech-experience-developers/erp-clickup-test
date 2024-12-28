@@ -9,6 +9,7 @@ function App() {
     <>
     {/* comentario aleatorio apenas para testar o clickup */}
     {/* novo comentario para testar o rastreamento do commit no clickup */}
+    {/* comentario para testar se o link funciona sem colocar na branch o id da task do clickup */}
       <ThemeProvider theme={theme}>
         <SidebarProvider>
           <AppRoutes />
