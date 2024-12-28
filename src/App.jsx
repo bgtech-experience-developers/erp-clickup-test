@@ -8,6 +8,7 @@ function App() {
   return (
     <>
     {/* comentario aleatorio apenas para testar o clickup */}
+    {/* novo comentario para testar o rastreamento do commit no clickup */}
       <ThemeProvider theme={theme}>
         <SidebarProvider>
           <AppRoutes />
