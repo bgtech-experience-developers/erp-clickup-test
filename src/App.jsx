@@ -7,6 +7,7 @@ import { SidebarProvider } from "./contexts/SidebarContext";
 function App() {
   return (
     <>
+    {/* comentario aleatorio apenas para testar o clickup */}
       <ThemeProvider theme={theme}>
         <SidebarProvider>
           <AppRoutes />
