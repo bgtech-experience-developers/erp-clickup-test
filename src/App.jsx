@@ -11,6 +11,9 @@ function App() {
     {/* novo comentario para testar o rastreamento do commit no clickup */}
     {/* comentario para testar se o link funciona sem colocar na branch o id da task do clickup */}
     {/* comentario para branch cadastrar/cliente/test*/}
+    {/* comentario task 6 automatizar status no clickup */}
+    {/* comentario task 6 automatizar status no clickup */}
+    {/* comentario task 6 automatizar status no clickup */}
       <ThemeProvider theme={theme}>
         <SidebarProvider>
           <AppRoutes />
