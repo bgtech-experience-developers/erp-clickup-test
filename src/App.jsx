@@ -18,6 +18,7 @@ function App() {
     {/* comentario task 8 automatizar status no clickup */}
     {/* task 10 auto workflow */}
     {/* task 11 auto close issue */}
+    {/* task 12 */}
       <ThemeProvider theme={theme}>
         <SidebarProvider>
           <AppRoutes />
