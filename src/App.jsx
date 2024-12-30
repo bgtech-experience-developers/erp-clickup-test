@@ -16,6 +16,7 @@ function App() {
     {/* comentario task 6 automatizar status no clickup */}
     {/* comentario task 7 automatizar status no clickup */}
     {/* comentario task 8 automatizar status no clickup */}
+    {/* task 10 auto workflow */}
       <ThemeProvider theme={theme}>
         <SidebarProvider>
           <AppRoutes />
